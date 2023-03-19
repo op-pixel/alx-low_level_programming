@@ -15,7 +15,7 @@ if (i == 9)
 putchar(i + '9');
 else
 {
-putchar(i + '0');
+putchar(i + '9');
 putchar(',');
 putchar(' ');
 }
